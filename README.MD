@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  cryptography Challenger
+  Cryptography Challenge
 </h1>
 
 ## Sobre o projeto
