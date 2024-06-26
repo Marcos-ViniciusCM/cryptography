@@ -56,7 +56,7 @@ $ http GET :8080/users
 
 [
   {
-  		  "id": 1,
+  		  "id": 1 ,
         "userDocument": "123",
         "creditCardToken": "987",
         "value": 100
